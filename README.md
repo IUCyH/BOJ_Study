@@ -1,3 +1,4 @@
 # BOJ_Study
 
-## 1. [10845_큐](https://github.com/IUCyH/BOJ_Study/tree/main/10845_Queue)
+## 1. [10845_큐](10845_Queue)
+## 2. [9251_최장 공통 부분 수열](9251_LCS)
